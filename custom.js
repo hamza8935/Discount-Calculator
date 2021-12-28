@@ -19,7 +19,7 @@ discount.addEventListener('click',function () {
  let originalprice = text11 - price;
  result.innerText = `The discount of ${text12}% is ${price}.`;
  result1.innerText = `Your price after discount is ${originalprice}.`;
- result2.innerText = `You savd Rs.${price}.`;
+ result2.innerText = `You saved Rs.${price}.`;
  text1.value = '';
  text2.value = '';
 
